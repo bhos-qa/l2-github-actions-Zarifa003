@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-09-24T14:51:42" hostname="LAPTOP-20JUCM3U" time="0.035">
+  <properties/>
+  <testcase name="testAdd()" classname="StringTest" time="0.029"/>
+  <testcase name="testFindLen()" classname="StringTest" time="0.001"/>
+  <testcase name="testReverse()" classname="StringTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
