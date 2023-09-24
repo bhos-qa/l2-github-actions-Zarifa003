@@ -5,11 +5,13 @@ name: Java CI with Gradle and JUnit
 
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
-
-  pull_request:
+ workflow_dispatch:
+ 
+ pull_request:
+ 
     branches: [ "develop" ]
 
-  workflow_dispatch:
+ 
 jobs:
   build:
     # The type of runner that the job will run on
